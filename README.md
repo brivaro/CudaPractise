@@ -23,7 +23,7 @@ Ideal para estudiantes, investigadores o desarrolladores que deseen explorar las
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/brivaro/cuda-thread-playground.git
+   git clone https://github.com/brivaro/CudaPractise.git
    cd cuda-thread-playground
    ```
 
